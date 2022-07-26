@@ -1,20 +1,13 @@
-### Hi there 👋
+HI! I'm @hernanpesantez (Hernan Pesantez) 👋
+I'm a software developer by profession from Ecuador.  🇪🇨
 
+Pythonista by ❤️
 
+I currently live in New York, US. 🇺🇸
 
-<!--
-**hernanpesantez/hernanpesantez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me on:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Screenshot 2022-07-25 185544](https://user-images.githubusercontent.com/25800241/180888042-9709724a-1c93-4964-81c6-960e27525707.png)
+[Website: hernan.io](https://hernan.io/)
+[Twitter as @hernanpesantez1](https://twitter.com/HERNANPESANTEZ1)
+[GitHub as @hernanpesantez](https://github.com/hernanpesantez)
+[LinkedIn](https://www.linkedin.com/in/hernan-pesantez-856aba2b/)
