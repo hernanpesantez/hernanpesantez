@@ -3,7 +3,7 @@ I'm a software developer by profession from Ecuador.  🇪🇨
 
 Pythonista by ❤️
 
-I currently live in New York, US. 🇺🇸
+I currently live in New York, US.
 
 You can find me on:
 
